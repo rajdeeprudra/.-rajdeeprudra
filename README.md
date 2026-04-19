@@ -1,1 +1,1 @@
-# .-rajdeeprudra
+# ./rajdeeprudra
